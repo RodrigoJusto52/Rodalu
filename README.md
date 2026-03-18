@@ -5,6 +5,8 @@
 -   ### Electrónica e integración mecatrónica
 ## David Anastasio Enrique Alba
 -   ### Diseño mecánico
+## Iker Burruchaga Pastor 
+-   ### Validación y métricas
 
 ## Resto de roles:
-El equipo ha determinado que tanto el diseño de software como la validacion y metricas seran repartidas entre todos los miembros del equipo.
+El equipo ha determinado que el diseño de software sera repartidO entre todos los miembros del equipo.
